@@ -1,0 +1,182 @@
+
+body {
+
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 100px;
+    margin-left: 300px;
+    color: #292724;
+}
+
+header {
+
+    font-size: 35px;
+    min-height: 100px;
+}
+
+.header-word {
+
+    color: #292724;
+    text-decoration: none;
+}
+
+#color-me {
+    
+    color: #85a700;    
+}
+
+section {
+
+    min-height: 400px;
+}
+
+.title {
+
+    font-size: 30px;
+    padding-bottom: 17px;
+}
+
+#description-div {
+
+
+}
+
+#question-div {
+
+    padding-top: 45px;
+}
+
+.subtitle {
+
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.inline {
+
+    display: inline;
+}
+
+a.submit-link:hover {
+
+    color: #d91036;
+    font-size: 25px;
+    padding-left: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.submit-link {
+
+    color: #85a700;
+    font-size: 25px;
+    padding-left: 15px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.fulfill-form {
+
+}
+
+.form-input {
+
+    font-size: 20px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+    text-align: right;
+    display: list-item;
+}
+
+.submit-button {
+
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#register-developer, #login-developer {
+
+    margin-top: 10px;
+    margin-left: 100px;
+}
+
+.inline2 {
+
+    display: inline-block;
+}
+
+.username-repos {
+
+    text-decoration: none;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-size: 35px;
+}
+
+.repo-div {
+
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+}
+
+.repo-description {
+
+    font-size: 21px;
+    width: 900px;
+    word-wrap: normal;
+}
+
+a.repo-title:hover {
+
+    color: #d91036;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.repo-title {
+
+    color: #85a700;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.repo-commits-link:hover {
+
+    color: #d91036;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a.repo-commits-link {
+
+    color: #85a700;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.error-message {
+
+    font-size: 23px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+
+a.error-message:hover {
+
+    color: #85a700;
+}
+
+a.error-message {
+
+    color: #d91036;
+}
+
+footer {
+
+    font-size: 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}

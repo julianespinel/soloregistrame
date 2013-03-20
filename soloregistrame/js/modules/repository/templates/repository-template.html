@@ -1,0 +1,16 @@
+<div class="username-repos"><%= username %>'s repositories</div>
+
+<% _.each(repos, function(repo) { %>
+
+<div class="repo-div">
+
+    <a class="repo-title" href="<%= repo.get('repositoryUrl') %>" target="_blank">
+        <%= repo.get('name') %>
+    </a>
+
+    <div class="repo-description"><%= repo.get('description') %></div>
+    <a class="repo-commits-link" href="<%= repo.get('commitsUrl') %>" target="_blank">More commits!</a>
+
+</div>
+    
+<% }); %>
