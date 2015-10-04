@@ -25,5 +25,4 @@ This folder contains the server source files.
 
 ## Wanna try it out?
 
-This project is deployed on AWS, you can try it here:
-[soloregistra.me](http://54.245.124.110:8080/soloregistrame)
+~~This project is deployed on AWS, you can try it here: [soloregistra.me](http://54.245.124.110:8080/soloregistrame)~~
